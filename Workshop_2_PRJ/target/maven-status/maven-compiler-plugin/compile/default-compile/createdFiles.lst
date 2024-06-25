@@ -1,0 +1,7 @@
+workshop2\Controller\LoginController.class
+workshop2\Model\IngredientsDTO.class
+workshop2\Model\UserDTO.class
+workshop2\utils\DBUtils.class
+workshop2\DAO\UserDAO.class
+workshop2\Controller\IngredientController.class
+workshop2\DAO\IngredientDAO.class
